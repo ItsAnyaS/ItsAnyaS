@@ -1,6 +1,6 @@
 ### Hi there I'm Anastasia👋
 
-I love all things ==tech== and ==nature.==  I would love for you to follow me on my coding journey.
+I love all things **Tech** and **nature.**  I would love for you to follow me on my coding journey.
 
 
 
@@ -13,5 +13,6 @@ I love all things ==tech== and ==nature.==  I would love for you to follow me on
 - 😄 Pronouns: She/Her
 - [My Website](https://anastasiasirman.com/)
 
--My Tools
+- My Tools
+![html logo](htmllogo.png)
 
