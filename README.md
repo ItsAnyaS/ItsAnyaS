@@ -14,12 +14,7 @@ I love all things **Tech** and **nature.**  I would love for you to follow me on
 - [My Website](https://anastasiasirman.com/)
 
 - My Tools
-<style>
-  .container{
-display: flex;
-  align-items: center;
-  justify-content: center;
-  <style>
+
 <div class='container'>
 <img src="https://anastasiasirman.com/images/css.png" width="50" height="50" /> 
 <img src="https://anastasiasirman.com/images/jslogo.svg)" width="50" height="50" /> 
