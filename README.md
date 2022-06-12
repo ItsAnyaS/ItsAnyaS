@@ -14,6 +14,7 @@ I love all things **Tech** and **nature.**  I would love for you to follow me on
 - [My Website](https://anastasiasirman.com/)
 
 - My Tools
+- img[src*='https://anastasiasirman.com/images/css.png']{width: 50px; height: 50px;}
 ![CSS logo](https://anastasiasirman.com/images/css.png)
 ![JS logo](https://anastasiasirman.com/images/jslogo.svg)
 ![HTML5 logo](https://anastasiasirman.com/images/html5.webp)
