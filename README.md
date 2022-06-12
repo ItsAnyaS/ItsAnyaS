@@ -14,5 +14,5 @@ I love all things **Tech** and **nature.**  I would love for you to follow me on
 - [My Website](https://anastasiasirman.com/)
 
 - My Tools
-![html logo](/Memory-game/blob/main/memory-gap/images/card1.jpg)
+![html logo](ItsAnyaS/Memory-game/blob/main/memory-gap/images/card1.jpg)
 
