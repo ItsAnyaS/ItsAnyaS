@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there I'm Anastasia👋
+
+I love all things tech and nature.  I would love for you to follow me on my coding journey.
 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a CSS/JS flower animation project
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on anything open source
+- 🤔 I’m looking for help with canvas API
+- 💬 Ask me about anything
+- 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/anastasiasirman/)
 - 😄 Pronouns: She/Her
-[My Website](anastasiasirman.com)
+- [My Website](https://anastasiasirman.com/)
