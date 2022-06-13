@@ -19,6 +19,6 @@ I love all things **Tech** and **nature.**  I would love for you to follow me on
 <img src="https://anastasiasirman.com/images/css.png" width="50" height="60" /> 
 <img src="https://anastasiasirman.com/images/js-logo.png)" width="50" height="50" /> 
 <img src="https://anastasiasirman.com/images/html5.webp" width="50" height="50" /> 
- </div>
+
 
 
